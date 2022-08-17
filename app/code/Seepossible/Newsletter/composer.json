@@ -1,0 +1,30 @@
+{
+    "name": "seepossible/newsletter",
+    "description": "Seepossible Newsletter extension for Magento2",
+    "type": "magento2-module",
+    "version": "1.1.0",
+    "authors": [
+        {
+            "name": "Seepossible",
+            "email": "test@gmailcom",
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Seepossible\\Newsletter\\": ""
+        }
+    },
+    "keywords": [
+        "magento2",
+        "magento 2",
+        "default",
+        "seepossible newsletter",
+        "ajax newsletter",
+        "newsletter",
+        "news letter"
+    ]
+}
+
