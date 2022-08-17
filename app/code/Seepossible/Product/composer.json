@@ -1,0 +1,27 @@
+{
+    "name": "seepossible/product",
+    "description": "Seepossible Product",
+    "type": "magento2-module",
+    "version": "1.1.0",
+    "authors": [
+        {
+            "name": "Seepossible",
+            "email": "test@gmailcom",
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Seepossible\\Product\\": ""
+        }
+    },
+    "keywords": [
+        "magento2",
+        "magento 2",
+        "default",
+        "Product Prifix"
+    ]
+}
+
