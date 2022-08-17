@@ -1,0 +1,26 @@
+{
+    "name": "seepossible/database",
+    "description": "Seepossible Database with sample data",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Seepossible",
+            "email": "test@gmail.com",
+            "homepage": "http://localhost/"
+        }
+    ],
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "Seepossible\\Database\\": ""
+        }
+    },
+    "keywords": [
+        "magento2",
+        "magento 2",
+        "seepossible table",
+        "table",
+        "sample data"
+    ]
+}
